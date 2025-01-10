@@ -1,2 +1,2 @@
-# Folowers
-Codingan bunga dari Pyhton
+# Hearts
+Codingan love dari Pyhton
